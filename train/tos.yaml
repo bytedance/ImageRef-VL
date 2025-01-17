@@ -1,0 +1,7 @@
+ak: "YOUR KEY"
+bucket_name: "YOUR NAME"
+tos_psm: "YOUR TOS PSM"
+tos_cluster: "YOUR TOS CLUSTER"
+tos_idc: "YOUR TOS IDC"
+endpoint: "YOUR ENDPOINT"
+url_prefix: "YOUR URL PREFIX"

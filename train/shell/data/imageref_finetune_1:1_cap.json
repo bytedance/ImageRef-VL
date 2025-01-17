@@ -1,0 +1,82 @@
+{
+    "sharegpt4v_instruct_gpt4-vision_cap100k": {
+      "root": "data/internvl/data/",
+      "annotation": "data/internvl/opensource/sharegpt4v_instruct_gpt4-vision_cap100k.jsonl",
+      "data_augment": false,
+      "repeat_time": 0.01,
+      "length": 102025
+    },
+    "llava_instruct_150k_zh": {
+      "root": "data/internvl/data/coco/",
+      "annotation": "data/internvl/opensource/llava_instruct_150k_zh.jsonl",
+      "data_augment": false,
+      "repeat_time": 0.01,
+      "length": 157712
+    },
+    "sharegpt4v_mix665k_cap23k_coco-ap9k_lcs3k_sam9k_div2k": {
+      "root": "data/internvl/data/",
+      "annotation": "data/internvl/opensource/sharegpt4v_mix665k_cap23k_coco-ap9k_lcs3k_sam9k_div2k.jsonl",
+      "data_augment": false,
+      "repeat_time": 0.01,
+      "length": 665058
+    },
+    "dvqa_train_200k": {
+      "root": "data/internvl/data/dvqa/",
+      "annotation": "data/internvl/opensource/dvqa_train_200k.jsonl",
+      "data_augment": false,
+      "repeat_time": 0.01,
+      "length": 200000
+    },
+    "chartqa_train_18k": {
+      "root": "data/internvl/data/chartqa/",
+      "annotation": "data/internvl/opensource/chartqa_train_18k.jsonl",
+      "data_augment": false,
+      "repeat_time": 0.01,
+      "length": 18317
+    },
+    "ai2d_train_12k": {
+      "root": "data/internvl/data/ai2d/",
+      "annotation": "data/internvl/opensource/ai2d_train_12k.jsonl",
+      "data_augment": false,
+      "repeat_time": 0.01,
+      "length": 12413
+    },
+    "docvqa_train_10k": {
+      "root": "data/internvl/data/docvqa/",
+      "annotation": "data/internvl/opensource/docvqa_train_10k.jsonl",
+      "data_augment": false,
+      "repeat_time": 0.01,
+      "length": 10211
+    },
+    "geoqa+": {
+      "root": "data/internvl/data/geoqa+/",
+      "annotation": "data/internvl/opensource/geoqa+.jsonl",
+      "data_augment": false,
+      "repeat_time": 0.01,
+      "length": 72318
+    },
+    "synthdog_en": {
+      "root": "data/internvl/data/synthdog-en/",
+      "annotation": "data/internvl/opensource/synthdog_en.jsonl",
+      "data_augment": false,
+      "repeat_time": 0.01,
+      "length": 29765
+    },
+    "cmi_train_7k": {
+      "root": "data/internvl/data/cmi/",
+      "annotation": "data/internvl/opensource/cmi_train_7k.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 7645,
+      "max_dynamic_patch": 1
+    },
+    "cmi_cap_train_6k": {
+      "root": "data/internvl/data/cmi/",
+      "annotation": "data/internvl/opensource/cmi_cap_train_6k.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 5633,
+      "max_dynamic_patch": 1
+    }
+  }
+  

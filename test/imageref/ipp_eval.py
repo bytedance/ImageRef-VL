@@ -1,3 +1,6 @@
+# Copyright (c) 2024 Bytedance Ltd. and/or its affiliates
+# SPDX-License-Identifier: Apache-2.0
+
 import re
 import argparse
 import pandas as pd

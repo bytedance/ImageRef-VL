@@ -1,3 +1,14 @@
+# Copyright (c) 2023 OpenGVLab
+# Copyright (c) 2024 Bytedance Ltd. and/or its affiliates
+# SPDX-License-Identifier: MIT
+#
+# This file has been modified by 2024 Bytedance Ltd. on 2024.11.12
+#
+# Original file was released under MIT, with the full license text
+# available at https://github.com/OpenGVLab/InternVL?tab=MIT-1-ov-file#readme.
+#
+# This modified file is released under the same license.
+ 
 import gc
 import json
 import logging

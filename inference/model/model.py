@@ -1,3 +1,6 @@
+# Copyright (c) 2024 Bytedance Ltd. and/or its affiliates
+# SPDX-License-Identifier: Apache-2.0
+
 from typing import Optional, Union, List, Dict, Any
 from pathlib import Path
 from dataclasses import dataclass

@@ -14,7 +14,6 @@ einops
 einops-exts
 termcolor
 scipy
-decord3
 imageio
 opencv-python-headless
 pycocoevalcap
